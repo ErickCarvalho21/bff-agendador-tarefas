@@ -1,4 +1,4 @@
-package com.javanauta.bffagendadortarefas.ccontroller;
+package com.javanauta.bffagendadortarefas.controller;
 
 
 import com.javanauta.bffagendadortarefas.business.TarefasService;
